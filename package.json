@@ -11,13 +11,13 @@
   "dependencies": {
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "react-router-dom": "6.22.3",
-    "recharts": "2.12.3",
+    "react-router-dom": "6.23.0",
+    "recharts": "2.12.7",
     "@google/genai": "0.1.1",
-    "lucide-react": "0.358.0",
-    "@mui/material": "6.4.1&deps=react@19.0.0,react-dom@19.0.0,@emotion",
-    "@emotion/react": "11.14.0",
-    "@emotion/styled": "11.14.0"
+    "lucide-react": "0.378.0",
+    "@mui/material": "5.15.15",
+    "@emotion/react": "11.11.4",
+    "@emotion/styled": "11.11.4"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
